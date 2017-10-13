@@ -42,10 +42,10 @@ To execute the test this way, you can do the following:
 <img src="images/pull-req-button.png" width="200" height="60" />
 </br>
 9. Pick the branch you pushed using the compare dropdown. The base dropdown should be master and  the rest of the fields as is.  You will know that you have done everything correctly if the <span style="color:green">Able to merge</span> appears.  </br></br>
-![](images/open-pull-req.png)  
+<img src="images/open-pull-req.png"/>  
 </br>
 10. Enter a Title and a description for your pull request and hit the "Create pull request" button.
-![](images/desc-for-pull-req.png)  
+<img src="images/desc-for-pull-req.png"/> 
 </br>
 
 ### You should now see your commit request and it has been submitted to the SP-Solutions team to be merged.  Allow 24 hours for you pull request to be accepted/rejected (with reasons).
