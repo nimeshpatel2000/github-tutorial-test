@@ -1,0 +1,10 @@
+Several Safe Networking Requests:
+
+1. To get latest VM uploaded to box folder
+2. Give us access to latest .git for Safe Netwroking Software
+3. Add hyperlink for Malware Families table linking it to Autofocus Tag description of Malware Family
+4. Add functionality to pull Malware family description to Safe Networking Software.
+5. Make interface to look really cool
+
+Thanks.
+BR, Dima.
